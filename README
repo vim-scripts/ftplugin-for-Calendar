@@ -1,0 +1,6 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=683
+
+You can do following on diary.
+Putting current time with typeing <localleader>z.
+If you want to customize behavior of editing diary,
+ Please modify this file.
